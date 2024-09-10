@@ -2,9 +2,9 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/"
+           fetch="http://mirrors.ustc.edu.cn/aosp/"
            review="https://android-review.googlesource.com/" />
-  <default revision="android-14.0.0_r24"
+  <default revision="android-14.0.0_r4"
            remote="aosp"
            sync-j="4" />
 
